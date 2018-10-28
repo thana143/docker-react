@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React - with real time examples! - BY HG
+            First AWS Deploy :-)
           </a>
         </header>
       </div>
